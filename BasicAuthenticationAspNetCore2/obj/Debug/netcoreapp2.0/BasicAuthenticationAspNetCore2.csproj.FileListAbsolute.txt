@@ -1,0 +1,11 @@
+C:\Users\saibi\Documents\Github\BasicAuthenticationAspNetCore2\BasicAuthenticationAspNetCore2\bin\Debug\netcoreapp2.0\BasicAuthenticationAspNetCore2.deps.json
+C:\Users\saibi\Documents\Github\BasicAuthenticationAspNetCore2\BasicAuthenticationAspNetCore2\bin\Debug\netcoreapp2.0\BasicAuthenticationAspNetCore2.runtimeconfig.json
+C:\Users\saibi\Documents\Github\BasicAuthenticationAspNetCore2\BasicAuthenticationAspNetCore2\bin\Debug\netcoreapp2.0\BasicAuthenticationAspNetCore2.runtimeconfig.dev.json
+C:\Users\saibi\Documents\Github\BasicAuthenticationAspNetCore2\BasicAuthenticationAspNetCore2\bin\Debug\netcoreapp2.0\BasicAuthenticationAspNetCore2.dll
+C:\Users\saibi\Documents\Github\BasicAuthenticationAspNetCore2\BasicAuthenticationAspNetCore2\obj\Debug\netcoreapp2.0\BasicAuthenticationAspNetCore2.csprojResolveAssemblyReference.cache
+C:\Users\saibi\Documents\Github\BasicAuthenticationAspNetCore2\BasicAuthenticationAspNetCore2\obj\Debug\netcoreapp2.0\BasicAuthenticationAspNetCore2.csproj.CoreCompileInputs.cache
+C:\Users\saibi\Documents\Github\BasicAuthenticationAspNetCore2\BasicAuthenticationAspNetCore2\obj\Debug\netcoreapp2.0\BasicAuthenticationAspNetCore2.AssemblyInfoInputs.cache
+C:\Users\saibi\Documents\Github\BasicAuthenticationAspNetCore2\BasicAuthenticationAspNetCore2\obj\Debug\netcoreapp2.0\BasicAuthenticationAspNetCore2.AssemblyInfo.cs
+C:\Users\saibi\Documents\Github\BasicAuthenticationAspNetCore2\BasicAuthenticationAspNetCore2\bin\Debug\netcoreapp2.0\BasicAuthenticationAspNetCore2.pdb
+C:\Users\saibi\Documents\Github\BasicAuthenticationAspNetCore2\BasicAuthenticationAspNetCore2\obj\Debug\netcoreapp2.0\BasicAuthenticationAspNetCore2.dll
+C:\Users\saibi\Documents\Github\BasicAuthenticationAspNetCore2\BasicAuthenticationAspNetCore2\obj\Debug\netcoreapp2.0\BasicAuthenticationAspNetCore2.pdb

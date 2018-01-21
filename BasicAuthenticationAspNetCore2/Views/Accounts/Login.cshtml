@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h2>Login</h2>
+
+<hr />
+
+<div class="row">
+    <form asp-action="Login" asp-controller="Accounts" class="col-md-4">
+        <input type="text" name="Username" placeholder="Username .. " class="form-control" />
+        <br />
+        <input type="Password" name="Password" placeholder="Password .. " class="form-control" />
+        <hr />
+        <input type="submit" value="login" class="btn btn-success" />
+    </form>
+</div>
